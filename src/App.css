@@ -1,0 +1,35 @@
+.App {
+  align-items: center ;
+  }
+  
+  .custom-margin {
+      margin-top: 1.9rem !important;
+    }
+    .table-margin{
+      margin-left: 6rem;
+      margin-right: 6rem;
+    }
+  
+  
+    table, td, th {
+      border: 1px solid black!important;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 80%!important;
+      text-align: center;
+    }
+    
+    table thead tr {
+      text-align: center;
+    }
+  .custom-center{
+      display: flex;
+      flex-wrap: wrap;
+      align-content: space-between;
+      justify-content: center;
+  }
+  .text-white{
+      color:white;
+  }
